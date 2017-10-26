@@ -3,6 +3,7 @@ Object Detection using High speed Vision
 
 # Roadmap
 <img src="Flowchart.png" />
+
 # To Run
 1. `virtualenv venv`
 2. `source venv/bin/activate`
